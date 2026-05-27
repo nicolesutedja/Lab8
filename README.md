@@ -1,5 +1,7 @@
 # Lab8-Starter
 
+Deployed URL: http://nicolesutedja.github.io/Lab8/
+
 Name: Xuanye Wang, Nicole Sutedja
 
 How are graceful degradation and service workers related?
