@@ -1,6 +1,6 @@
 {
   "name": "Lab8",
-  "short_name": "Nicole Sutedja, Xuanye Wang",
+  "short_name": "Xuanye Wang",
   "description": "A simple recipe web app built for CSE 110 Lab 8, demonstrating Fetch API, Service Workers, and PWA installability.",
   "start_url": "/index.html",
   "display": "standalone",
